@@ -5,8 +5,7 @@ on:
   push:
     branches:
       # To use Github Actions, change the branch name from `revanced-extended` to `main`
-      - main
-      - dev
+      - revanced-extended
 
 jobs:
   release:
